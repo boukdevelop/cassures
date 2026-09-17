@@ -11,4 +11,7 @@ Bloc deux su rle fichier test de départ
 
 ---
 
+Bloc 2{
+Bavardage du bloc N°2
+}
 
