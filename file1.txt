@@ -15,3 +15,6 @@ Bloc 2{
 Bavardage du bloc N°2
 }
 
+Bloc 3{
+Bla bla Numero 2
+}
