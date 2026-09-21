@@ -1,1 +1,3 @@
-Ligne 1: Modification apportée par le première personne
+<<<<<<< HEAD
+Ligne 1: Finalement les deux personnes n'ont pas mis quelque chose qui me plaisaient
+De ca fait, j'ai tout supprimé
