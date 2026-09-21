@@ -1,1 +1,4 @@
 Ligne de début, celle que j'ai modifier par la suite
+
+Une petite modification à titre d'exemple que j'effectue
+sur plusieurs ligne.
