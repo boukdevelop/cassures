@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Ligne 1 : Modification apportée par le développeur N°2
-=======
-Ligne 1 : Modification apportée par le développeur 1
->>>>>>> 320a6ffa2e04f614916173cf4b2996b45abbcdea
